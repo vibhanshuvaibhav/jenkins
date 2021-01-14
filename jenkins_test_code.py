@@ -1,3 +1,3 @@
 import sys
 
-print('incorrect code
+print('hello world')
